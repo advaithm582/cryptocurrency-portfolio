@@ -1,0 +1,7 @@
+{
+	"COINMARKETCAP_API_KEY" : "api-key-here",
+	"API_DOMAIN" : "https://pro-api.coinmarketcap.com",
+	"CURRENCY_CODE" : "INR",
+	"DB_URL" : "sqlite:///database.db",
+	"THEME_FILE" : "default_theme.theme"
+}
