@@ -8,6 +8,7 @@ This software uses the CoinMarketCap API to calculate your profits and losses. T
 Compiling the app requires:
 * pip
 * python >=3.8
+
 Python packages:
 * pyinstaller >= 4.3 (to compile into executable)
 * requests >= 2.25.1
