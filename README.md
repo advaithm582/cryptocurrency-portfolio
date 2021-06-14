@@ -2,7 +2,6 @@
 This software uses the CoinMarketCap API to calculate your profits and losses. To use the same you need a CoinMarketCap Pro API key, which can be procured from [the CMC Pro API registration page](https://pro.coinmarketcap.com/signup/ "CMC Pro API registeration page"). You can choose any plan that suits you.
 
 ## Compiling the app for your operating system
-This is required in order to add your API key to the app.
 
 >**Note:** On Windows, use the inbuilt DB manipulation tool to modify the DB instead of compiling the program, if you don't know Python.
 
@@ -30,7 +29,11 @@ DB_URL | The SQLAlchemy DB URI to be used. Leave it as it is
 THEME_FILE | For future use, it is ignored currently.
 
 ## Application Architecture
-![Application Architecture](https://lh6.googleusercontent.com/jurmX35WHNBmAuP0fzeComLLC3VW_iv-VeRF7nGbO0W-cmUJsi5403TrFakXLIu6VqrTx1ubVgtXDdo-lXbI=w1673-h937-rw)
+![Application Architecture](https://lh6.googleusercontent.com/Dmp1IrKb0qmHJjXSWjfnIkRrcrDusERqkFG9xHeqDROBMKzYTP-_dviVzApSqWWEQZfMjRtu1Wecvg=w1920-h955)
+
+If that image doesn't load, use this link: https://drive.google.com/file/d/18O5dNrGS1GltEI-AiL2i4JNSq6YYngi_/view
 
 ## Screenshots
-![Screenshot](https://lh5.googleusercontent.com/9VHUizUF1NTyhZUv99DguNOqW55PWpMssbdQ-ON40md0kLMTx-1BD2THNWIoUN4Yv3qD4EQiaeMSGlwLwbaE=w1673-h969-rw)
+![Screenshot](https://lh6.googleusercontent.com/_e1fxx8NSGqoxZ7ePgFkDoCj-iOvaNhwcHl9nkYrQn5amImsmORFxXC8QMwqIBS-QQY12OO2xqJ_8A=w1920-h955)
+
+If that image doesn't load, use this link: https://drive.google.com/file/d/1EcPAs3c9s0Ulu0zqIchyGlQ5gSGgwxfH/view
