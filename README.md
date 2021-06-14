@@ -29,11 +29,11 @@ DB_URL | The SQLAlchemy DB URI to be used. Leave it as it is
 THEME_FILE | For future use, it is ignored currently.
 
 ## Application Architecture
-![Application Architecture](https://lh6.googleusercontent.com/Dmp1IrKb0qmHJjXSWjfnIkRrcrDusERqkFG9xHeqDROBMKzYTP-_dviVzApSqWWEQZfMjRtu1Wecvg=w1920-h955)
+![Application Architecture](https://dsm01pap001files.storage.live.com/y4mH_mbUjw3bk22wjeGCVR41ouJt_-zTP1gHsfPy2X6ZK-xqMif6kibjruaPyjsivIiYcxipKOpba7dtFx9pylnype6qr_01aVJomLK81x7FV7WLCkglgE6GtUiu0WAtEN1DfitqJIUs-LO2z-BUUvwjZH13rini0HZYKbh-t87cnlCK8-E2B3FqCLv7z5SRKKe?width=1500&height=768&cropmode=none)
 
 If that image doesn't load, use this link: https://drive.google.com/file/d/18O5dNrGS1GltEI-AiL2i4JNSq6YYngi_/view
 
 ## Screenshots
-![Screenshot](https://lh6.googleusercontent.com/_e1fxx8NSGqoxZ7ePgFkDoCj-iOvaNhwcHl9nkYrQn5amImsmORFxXC8QMwqIBS-QQY12OO2xqJ_8A=w1920-h955)
+![Screenshot](https://dsm01pap001files.storage.live.com/y4mgBvIR7FjXWz9Qp_byWTJmDC1NIQrPXecVfcuZUBXWU_GtE1sRkVnjI-r6jrEQOwzgs_5grZHE0FXTFws0LEseyb-l6sgu3otluOb6fP8khNyR66rz897lP2P5Rae-lReQ3Qv_Ur6IM9wL9TMR-yCQUyVqa0FnMHBbUXG3IZC-DdmqNYPBDdlpmqqbCTak8Jw?width=1236&height=252&cropmode=none)
 
 If that image doesn't load, use this link: https://drive.google.com/file/d/1EcPAs3c9s0Ulu0zqIchyGlQ5gSGgwxfH/view
