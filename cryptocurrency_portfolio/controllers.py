@@ -258,7 +258,3 @@ class DatabaseHandler():
 		"""Make changes reflect in database"""
 		self.__db_session.commit()
 
-# Todo:
-# Finish delete coin,
-# Figure out how to get the data from DB in the form of a dict
-# Improve model
