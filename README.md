@@ -1,3 +1,9 @@
+> ⚠️ WARNING: This project is now deprecated.
+>
+> This project was originally made for me to have a rudimentary understanding of Git and Python. Code patterns
+> and algortihms followed here might not be the most efficient nor secure (e.g. the token is stored in a plain
+> text file). Please don't use this project for any purpose other than analyzing the code.
+
 # Cryptocurrency Portfolio
 This software uses the CoinMarketCap API to calculate your profits and losses. To use the same you need a CoinMarketCap Pro API key, which can be procured from [the CMC Pro API registration page](https://pro.coinmarketcap.com/signup/ "CMC Pro API registeration page"). You can choose any plan that suits you.
 
